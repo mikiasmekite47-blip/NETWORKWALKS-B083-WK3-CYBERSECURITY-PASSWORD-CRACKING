@@ -48,7 +48,7 @@ Rather than installing a local Python/Perl toolchain, used the web-based
 `pdf2john` under the hood.
 
 1. Uploaded `My Locked PDF1.pdf` to the tool
-2. Tool returned a hash string in the standard `$pdf$...` format:
+2. Tool returned a hash string in the standard `pdf...` format:
 
  ![PDF Hash Extraction](pdf-hash-extraction.png) 
 
