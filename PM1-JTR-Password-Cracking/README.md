@@ -8,6 +8,7 @@ This module focuses on cracking a password protected PDF file using
 on Windows. The goal was to extract a hash from a locked PDF, load it into
 JTR, and recover the original password protecting the file.
 
+![J T R](John-the-Ripper.jpg)
 
 ## 🎯 Objective
 
